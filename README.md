@@ -1,2 +1,2 @@
-# edutech
-Projetos do curso edutech
+# tech
+
